@@ -1,0 +1,31 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "phobian@tutanota.com",
+                "Name": "Mark Whittaker"
+            }
+        ],
+        "Category": "Plasma Look And Feel",
+        "Description": "Classic GTK2 themes renewed",
+        "EnabledByDefault": true,
+        "Id": "org.magpie.ngw.desktop",
+        "License": "GPL 2+",
+        "Name": "NightGlow White",
+        "ServiceTypes": [
+            "Plasma/LookAndFeel"
+        ],
+        "Version": "1.0",
+        "Website": "https://www.pling.com/u/phob1an/"
+    },
+    "X-KPackage-Dependencies": [
+    "kns://aurorae.knsrc/api.kde-look.org/2185639",
+    "kns://colorschemes.knsrc/api.kde-look.org/2186993",
+    "kns://plasma-themes.knsrc/api.kde-look.org/2179266",
+    "kns://icons.knsrc/api.kde-look.org/1279924",
+    "kns://wallpaper.knsrc/api.kde-look.org/2186817",
+    "kns://sddmtheme.knsrc/api.kde-look.org/2186818",
+    "kns://plasmoids.knsrc/api.kde-look.org/2179264"
+    ]
+}

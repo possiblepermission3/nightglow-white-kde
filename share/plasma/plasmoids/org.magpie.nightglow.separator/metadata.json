@@ -1,0 +1,21 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "phobian@tutanota.com",
+                "Name": "Mark Whittaker"
+            }
+        ],
+        "Category": "Utilities",
+        "Description": "Vista style separator",
+        "EnabledByDefault": true,
+        "Icon": "filename-divider",
+        "Id": "org.magpie.nightglow.separator",
+        "License": "GPL3",
+        "Name": "Nightglow Separator",
+        "KPackageStructure": "Plasma/Applet",
+        "Version": "1.1",
+        "Website": "https://www.pling.com/u/phob1an/"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0"
+}

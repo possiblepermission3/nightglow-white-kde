@@ -1,0 +1,13 @@
+[Desktop Entry]
+Comment=Classic GTK2 themes renewed
+Name=Nightglow White
+X-KDE-PluginInfo-Author=Mark Whittaker
+X-KDE-PluginInfo-Category=Plasma Look And Feel
+X-KDE-PluginInfo-Email=phobian@tutanota.com
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=GPL 2+
+X-KDE-PluginInfo-Name=org.magpie.ngw
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=https://www.pling.com/u/phob1an
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KPackage-Dependencies=kns://aurorae.knsrc/api.kde-look.org/2185639,kns://colorschemes.knsrc/api.kde-look.org/2186993,kns://plasma-themes.knsrc/api.kde-look.org/2179266,kns://icons.knsrc/api.kde-look.org/1279924,kns://wallpaper.knsrc/api.kde-look.org/2186817,kns://sddmtheme.knsrc/api.kde-look.org/2186818,kns://plasmoids.knsrc/api.kde-look.org/2179264

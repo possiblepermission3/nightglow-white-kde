@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="22"
+   viewBox="0 0 16 22"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   sodipodi:docname="sep.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#d1d1d1"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="43.319594"
+     inkscape:cx="7.6985948"
+     inkscape:cy="6.7175145"
+     inkscape:current-layer="layer1"
+     showgrid="true">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#7e7e7e"
+       empopacity="0.30196078"
+       color="#7e7e7e"
+       opacity="0.14901961"
+       empspacing="5"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1"
+       transform="translate(-15.000004,-6.0000134)">
+      <rect
+         id="rect794"
+         x="20"
+         y="8"
+         width="2.0000048"
+         height="2.0000131"
+         style="fill:#111111;fill-opacity:1;stroke-width:1" />
+      <rect
+         id="rect786"
+         x="21"
+         y="9"
+         width="1.0000033"
+         height="1.0000132"
+         style="fill:#6e6e6e;fill-opacity:1;stroke-width:0.999998" />
+    </g>
+    <g
+       id="g7"
+       transform="translate(-12.000004,-6)">
+      <rect
+         id="rect1"
+         x="19.999998"
+         y="7.9999995"
+         width="2.0000033"
+         height="2.0000131"
+         style="fill:#111111;fill-opacity:1;stroke-width:1" />
+      <rect
+         id="rect7"
+         x="21"
+         y="9"
+         width="1.0000033"
+         height="1.0000132"
+         style="fill:#6e6e6e;fill-opacity:1;stroke-width:0.999998" />
+    </g>
+    <g
+       id="g11"
+       transform="translate(-9.0000038,-6)">
+      <rect
+         id="rect8"
+         x="20"
+         y="7.9999995"
+         width="2.0000033"
+         height="2.0000131"
+         style="fill:#111111;fill-opacity:1;stroke-width:0.999994" />
+      <rect
+         id="rect11"
+         x="21"
+         y="9"
+         width="1.0000033"
+         height="1.0000132"
+         style="fill:#6e6e6e;fill-opacity:1;stroke-width:0.999998" />
+    </g>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g1"
+       id="use11"
+       transform="translate(3.8e-6,4)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g7"
+       id="use12"
+       transform="translate(3.8e-6,4)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g11"
+       id="use13"
+       transform="translate(3.8e-6,4)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g1"
+       id="use14"
+       transform="translate(3.8e-6,8)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g7"
+       id="use15"
+       transform="translate(3.8e-6,8)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g11"
+       id="use16"
+       transform="translate(3.8e-6,8)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g1"
+       id="use17"
+       transform="translate(3.8e-6,12)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g7"
+       id="use18"
+       transform="translate(3.8e-6,12)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g11"
+       id="use19"
+       transform="translate(3.8e-6,12)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g1"
+       id="use20"
+       transform="translate(3.8e-6,16)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g7"
+       id="use21"
+       transform="translate(3.8e-6,16)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g11"
+       id="use22"
+       transform="translate(3.8e-6,16)" />
+  </g>
+</svg>

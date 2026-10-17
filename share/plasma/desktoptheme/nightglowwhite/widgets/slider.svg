@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="82"
+   height="57.999989"
+   viewBox="0 0 82.000001 57.999991"
+   version="1.1"
+   id="svg2755"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   sodipodi:docname="slider.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#d2d2d2"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="11.176268"
+     inkscape:cx="50.866711"
+     inkscape:cy="40.263887"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     inkscape:pagecheckerboard="true"
+     inkscape:showpageshadow="false"
+     fit-margin-top="5"
+     fit-margin-left="5"
+     fit-margin-right="5"
+     fit-margin-bottom="5"
+     inkscape:snap-nodes="false"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="false"
+     inkscape:snap-bbox-midpoints="false"
+     inkscape:snap-global="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-paths="true"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid5571"
+       originx="12.000002"
+       originy="-42.000008"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2749">
+    <linearGradient
+       id="linearGradient23"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#090909;stop-opacity:1;"
+         offset="0"
+         id="stop23" />
+      <stop
+         style="stop-color:#090909;stop-opacity:1;"
+         offset="0.83333343"
+         id="stop25" />
+      <stop
+         style="stop-color:#090909;stop-opacity:0;"
+         offset="1"
+         id="stop24" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient23"
+       id="radialGradient24"
+       cx="91.671188"
+       cy="136.22371"
+       fx="91.671188"
+       fy="136.22371"
+       r="12"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <metadata
+     id="metadata2752">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1"
+     transform="translate(-17.671189,-58.223721)">
+    <rect
+       style="opacity:1;fill:#c1c1c1;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.628099"
+       id="hint-handle-size"
+       width="24"
+       height="24"
+       x="65.671188"
+       y="58.223721" />
+    <path
+       class="ColorScheme-Text"
+       id="groove-center"
+       d="m 49.671191,67.223717 v 3 h 3 v -3 z"
+       style="opacity:1;fill:none;fill-opacity:1"
+       inkscape:connector-curvature="0" />
+    <path
+       class="ColorScheme-Text"
+       inkscape:connector-curvature="0"
+       style="opacity:1;fill:none;fill-opacity:1"
+       d="m 46.671191,67.223717 v 3 h 3 v -3 z"
+       id="groove-left" />
+    <path
+       class="ColorScheme-Text"
+       inkscape:connector-curvature="0"
+       style="opacity:1;fill:none;fill-opacity:1"
+       d="m 52.671191,67.223717 v 3 h 3 v -3 z"
+       id="groove-right" />
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:1;fill:none;fill-opacity:1"
+       d="m 49.671191,71.223713 v 3 h 3 v -3 z"
+       id="groove-highlight-center"
+       class="ColorScheme-Text" />
+    <path
+       id="groove-highlight-left"
+       d="m 46.671191,71.223713 v 3 h 3 v -3 z"
+       style="opacity:1;fill:none;fill-opacity:1"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Text" />
+    <path
+       id="groove-highlight-right"
+       d="m 52.671191,71.223713 v 3 h 3 v -3 z"
+       style="opacity:1;fill:none;fill-opacity:1"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Text" />
+    <g
+       id="horizontal-slider-handle"
+       transform="translate(6.9999962,-23.78189)">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.628099"
+         id="rect21"
+         width="24"
+         height="24"
+         x="35.671192"
+         y="112.22371" />
+      <g
+         id="g22"
+         transform="matrix(1.152263,0,0,1.152263,-14.435405,-23.078462)"
+         style="stroke-width:0.867857">
+        <circle
+           r="8"
+           style="opacity:1;fill:#090909;fill-opacity:1;stroke:#818181;stroke-width:1.73571;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle1643"
+           cx="53.899673"
+           cy="127.83728" />
+      </g>
+    </g>
+    <g
+       id="groove-top">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="rect6"
+         width="3.9999948"
+         height="3.9999893"
+         x="49.671196"
+         y="59.223728" />
+      <rect
+         style="opacity:0.7;fill:#818181;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="rect1"
+         width="3.9999948"
+         height="1"
+         x="49.671196"
+         y="60.223713" />
+    </g>
+    <g
+       id="groove-bottom"
+       transform="translate(-2.3841858e-6,3.9999993)">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="rect7"
+         width="3.9999948"
+         height="3.9999893"
+         x="49.671196"
+         y="59.223728" />
+      <rect
+         style="opacity:0.7;fill:#818181;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="rect2"
+         width="3.9999971"
+         height="1.0000001"
+         x="49.671196"
+         y="61.223713" />
+    </g>
+    <g
+       id="groove-highlight-top"
+       transform="translate(-23.999998,0.99997832)">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="rect14"
+         width="3.9999948"
+         height="3.9999893"
+         x="49.671196"
+         y="59.223728" />
+      <rect
+         style="opacity:0.45;fill:#464646;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="rect15"
+         width="3.9999948"
+         height="1.9999948"
+         x="49.671192"
+         y="61.223713" />
+    </g>
+    <g
+       id="groove-highlight-bottom"
+       transform="translate(-24.000001,4.9999776)">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="rect16"
+         width="3.9999948"
+         height="3.9999893"
+         x="49.671196"
+         y="59.223728" />
+      <rect
+         style="opacity:0.45;fill:#464646;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="rect17"
+         width="3.9999969"
+         height="1.9999804"
+         x="49.671196"
+         y="59.223736" />
+    </g>
+    <g
+       id="horizontal-slider-shadow"
+       transform="translate(-4.9999985,-33.000006)">
+      <rect
+         style="opacity:0.5;fill:none;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="rect22"
+         width="26"
+         height="26"
+         x="78.671188"
+         y="123.22372" />
+      <circle
+         style="opacity:0.5;fill:url(#radialGradient24);fill-opacity:1;stroke:none;stroke-width:1.49999;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="circle23"
+         cx="91.671188"
+         cy="136.22371"
+         r="12" />
+    </g>
+    <g
+       id="groove-topright">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="rect9"
+         width="4"
+         height="4"
+         x="53.671196"
+         y="59.223724" />
+      <path
+         id="rect8"
+         style="opacity:0.7;fill:#818181;fill-opacity:1;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         d="m 53.671191,60.223717 v 1 h 2.666016 0.333984 v 2 h 1 v -3 z" />
+    </g>
+    <g
+       id="groove-highlight-topright"
+       transform="translate(-19.999999,0.99998202)">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="rect4"
+         width="3.9999948"
+         height="3.9999893"
+         x="49.671196"
+         y="59.223728" />
+      <rect
+         style="opacity:0.45;fill:#464646;fill-opacity:1;stroke:none;stroke-width:1.49999;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="rect5"
+         width="3.0000021"
+         height="1.9999948"
+         x="49.671196"
+         y="61.223713" />
+    </g>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#groove-highlight-topright"
+       id="groove-highlight-bottomright"
+       transform="matrix(1,0,0,-1,-5.8441894e-6,128.4474)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#groove-highlight-topright"
+       id="groove-highlight-bottomleft"
+       transform="rotate(180,27.671194,64.223704)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#groove-highlight-topright"
+       id="groove-highlight-topleft"
+       transform="matrix(-1,0,0,1,55.342387,4.2001019e-8)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#groove-topright"
+       id="groove-bottomright"
+       transform="matrix(1,0,0,-1,-3.5714288e-7,126.44745)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#groove-topright"
+       id="groove-bottomleft"
+       transform="rotate(180,51.671191,63.22372)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#groove-topright"
+       id="groove-topleft"
+       transform="matrix(-1,0,0,1,103.34239,1.4e-5)" />
+    <g
+       id="horizontal-slider-hover"
+       transform="translate(-18.000003,-27.218099)">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.628099"
+         id="rect13"
+         width="24"
+         height="24"
+         x="35.671192"
+         y="112.22371" />
+      <g
+         id="g13"
+         transform="matrix(1.152263,0,0,1.152263,-14.435405,-23.078462)"
+         style="stroke-width:0.867857">
+        <circle
+           r="8"
+           style="opacity:1;fill:#090909;fill-opacity:1;stroke:#8a8a8a;stroke-width:1.73571;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle13"
+           cx="53.899673"
+           cy="127.83728" />
+      </g>
+    </g>
+  </g>
+</svg>
